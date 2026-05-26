@@ -11,7 +11,7 @@
     --my-white: hsl(0, 0%, 100%);
     --gray-500: hsl(0, 0%, 42%);
     --gray-950: hsl(0, 0%, 7%);
-    --my-font-size: 16px
+    --my-font-size: 16px;
 }
 
 body{
@@ -34,8 +34,8 @@ body{
     padding: 1rem;
     display: flex;
     flex-direction: column;
-    width: 20.4rem;
-    height: 31.1rem;
+    width: 22rem;
+    height: 32rem;
     justify-content: space-between;
     border-radius: 1rem;
     box-shadow: 0.5rem 0.5rem 0px 0px var(--gray-950);
@@ -62,7 +62,7 @@ body{
 }
 
 .info-card{
-    height: 11rem;
+    height: 14rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
