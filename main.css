@@ -56,13 +56,13 @@ body{
 
 .image-card{
     width: 100%;
-    height: 13.5rem;
+    height: auto;
     border-radius: 0.5rem;
     object-fit: cover;
 }
 
 .info-card{
-    height: 10.8rem;
+    height: 11rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -121,8 +121,8 @@ h1:hover{
 @media (width>375) {
     .card{
         
-        width: 24rem;
-        height: 32.63rem;
+        width: 32rem;
+        height: 36rem;
         
         /* box-shadow: 0.5rem 0.5rem 0px 0px var(--gray-950);
         transition: transform 0.2s ease, box-shadow 0.2s ease; */
