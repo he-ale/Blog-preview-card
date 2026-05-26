@@ -35,7 +35,7 @@ body{
     display: flex;
     flex-direction: column;
     width: 24rem;
-    height: 38rem;
+    height: 36rem;
     justify-content: space-between;
     border-radius: 1rem;
     box-shadow: 0.5rem 0.5rem 0px 0px var(--gray-950);
@@ -123,7 +123,7 @@ h1:hover{
     .card{
         
         width: 28rem;
-        height: 38rem;
+        height: 36rem;
         
         /* box-shadow: 0.5rem 0.5rem 0px 0px var(--gray-950);
         transition: transform 0.2s ease, box-shadow 0.2s ease; */
